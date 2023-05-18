@@ -1,4 +1,3 @@
-
 👋 Hey there, I'm Matthew Mack, also known as HTMLMonger! Welcome to my GitHub profile.
 
 💻 I'm a passionate web developer with a strong focus on JavaScript and web development. I thrive on creating interactive and dynamic web experiences that engage users and bring ideas to life.
@@ -19,4 +18,4 @@
 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HTMLMonger&theme=radical" />
+
