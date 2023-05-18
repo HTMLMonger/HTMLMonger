@@ -1,5 +1,3 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
-
 
 👋 Hey there, I'm Matthew Mack, also known as HTMLMonger! Welcome to my GitHub profile.
 
